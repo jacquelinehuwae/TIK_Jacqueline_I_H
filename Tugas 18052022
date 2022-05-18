@@ -1,0 +1,22 @@
+#include <iostream>
+usingnamespace std; 
+
+int main(){
+//operator aritmatika 
+int a = 12; 
+int b = 2; 
+
+int hasiltambah = a + b; //penjumlahan 
+int hasilkurang = a - b; //pengurangan
+int hasilbagi = a/b; //pembagian 
+int hasilkali = a*b; //perkalian 
+int sisabagi =a%b; 
+
+cout<<hasiltambah<<endl;
+cout<<hasilkurang<<endl; 
+cout<<hasilbagi<<endl; 
+cout<<hasilkali<<endl;
+cout<<sisabagi<<endl; 
+
+return 0;
+}
